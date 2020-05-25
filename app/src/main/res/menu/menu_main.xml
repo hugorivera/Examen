@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/consumo"
+        app:showAsAction="ifRoom"
+        android:title="Consumo">
+    </item>
+    <item
+        android:id="@+id/hilos"
+        app:showAsAction="ifRoom"
+        android:title="Hilos">
+    </item>
+
+</menu>
